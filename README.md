@@ -25,9 +25,11 @@ Requestbody :
 5.GET API (Fetech or retrieve Student All Active Data)
 
   End point: http://localhost:8088/api/student
+  
 6.DELETE API(Delete the student data By using specific ID)
 
  End point: http://localhost:8088/api/student/1
+ 
 7.PUT API(update student Data)
 
    End point: http://localhost:8088/api/student/1
