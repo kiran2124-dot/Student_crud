@@ -14,12 +14,19 @@ Requestbody :
 
 {          
       "name":"kiran",
+      
       "address":"Malegaon",
+      
       "bloodGroup":"B+",
+      
       "mobileNumber":"7218689969",
+      
       "bod":"1995-02-02",
+      
       "isDeleted":false,
+      
       "isActive":true,
+      
       "createdBy":1
 }
 5.GET API (Fetech or retrieve Student All Active Data)
@@ -38,12 +45,20 @@ Requestbody :
    
  {
       "id":1,
+      
       "name":"kiran",
+      
       "address":"Malegaon",
+      
       "bloodGroup":"B+",
+      
       "mobileNumber":"7218689969",
+      
       "bod":"1995-02-02",
+
+      
       "isDeleted":false,
+      
       "isActive":true,
       "createdBy":1
 }
