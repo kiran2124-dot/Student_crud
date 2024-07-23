@@ -55,10 +55,10 @@ Requestbody :
       "mobileNumber":"7218689969",
       
       "bod":"1995-02-02",
-
       
       "isDeleted":false,
       
       "isActive":true,
+      
       "createdBy":1
 }
